@@ -3,7 +3,7 @@
 # Enable ARD, VNC & SSH on systems where it has been disabled
 
 kickstart="/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart"
-manageacct="mskcc"
+manageacct="<MGMT ACCOUNT HERE>"
 admingroup="admin"
 admingroupID="ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000050"
 
